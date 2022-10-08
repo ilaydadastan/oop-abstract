@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println(shape1.calculateArea());
         System.out.println(shape2.calculateArea());
-        shape1.print();
-        shape2.print();
+        shape1.print(2);
+        shape2.print(3);
     }
 }

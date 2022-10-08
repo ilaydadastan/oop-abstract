@@ -7,7 +7,7 @@ public class Triangle extends Shape{
     }
 
     @Override
-    public void print() {
+    public void print(int number) {
         System.out.println("hello triangle");
     }
 }
