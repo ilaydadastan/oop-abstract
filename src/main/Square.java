@@ -7,7 +7,7 @@ public class Square extends Shape{
     }
 
     @Override
-    public void print() {
+    public void print(int number) {
         System.out.println("hello square");
     }
 }
